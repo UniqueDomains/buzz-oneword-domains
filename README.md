@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | abactinal.buzz  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.buzz      | available | 43       | 2%     | 5      |           |         |         |
+| abaft.buzz      | premium   | 43       | 2%     | 5      |           |         |         |
 | abandoned.buzz  | available | 58       | 10%    | 9      |           |         |         |
 | abashed.buzz    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.buzz     | available | 54       | 2%     | 6      |           |         |         |
