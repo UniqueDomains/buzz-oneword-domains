@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BUZZ one-word domains still available to buy.
 
-This dataset contains 4,088 .BUZZ one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,136 .BUZZ one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BUZZ one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=description.top) (4,064) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,38 +13,38 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/buzz-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.09K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.09K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.14K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.14K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.buzz  | available | 50       | 1%     | 9      |           |         |         |
+| abactinal.buzz  | premium   | 50       | 1%     | 9      |           |         |         |
 | abaft.buzz      | premium   | 43       | 2%     | 5      |           |         |         |
 | abandoned.buzz  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.buzz    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.buzz     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.buzz   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.buzz     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.buzz    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.buzz   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.buzz  | available | 50       | 1%     | 9      |           |         |         |
+| abashed.buzz    | premium   | 60       | 2%     | 7      |           |         |         |
+| abasic.buzz     | premium   | 54       | 2%     | 6      |           |         |         |
+| abatable.buzz   | premium   | 54       | 1%     | 8      |           |         |         |
+| abatic.buzz     | premium   | 54       | 2%     | 6      |           |         |         |
+| abaxial.buzz    | premium   | 54       | 2%     | 7      |           |         |         |
+| abbatial.buzz   | premium   | 50       | 1%     | 8      |           |         |         |
+| abdicable.buzz  | premium   | 50       | 1%     | 9      |           |         |         |
 | abdominal.buzz  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.buzz | available | 56       | 1%     | 10     |           |         |         |
-| abducens.buzz   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.buzz   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.buzz  | available | 50       | 1%     | 9      |           |         |         |
+| abdominous.buzz | premium   | 56       | 1%     | 10     |           |         |         |
+| abducens.buzz   | premium   | 54       | 1%     | 8      |           |         |         |
+| abducent.buzz   | premium   | 68       | 1%     | 8      |           |         |         |
+| abducting.buzz  | premium   | 50       | 1%     | 9      |           |         |         |
 | abenaki.buzz    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.buzz | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.buzz   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.buzz    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.buzz  | available | 54       | 1%     | 9      |           |         |         |
+| aberdonian.buzz | premium   | 68       | 1%     | 10     |           |         |         |
+| aberrant.buzz   | premium   | 74       | 7%     | 8      |           |         |         |
+| abeyant.buzz    | premium   | 56       | 2%     | 7      |           |         |         |
+| abhorrent.buzz  | premium   | 54       | 1%     | 9      |           |         |         |
 | abiding.buzz    | premium   | 106      | 5%     | 7      |           |         |         |
-| abient.buzz     | available | 54       | 1%     | 6      |           |         |         |
+| abient.buzz     | premium   | 54       | 1%     | 6      |           |         |         |
 | abject.buzz     | premium   | 94       | 8%     | 6      |           |         |         |
-| abkhas.buzz     | available | 68       | 1%     | 6      |           |         |         |
+| abkhas.buzz     | premium   | 68       | 1%     | 6      |           |         |         |
 | abkhasian.buzz  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.buzz     | available | 82       | 2%     | 6      |           |         |         |
 | abkhazian.buzz  | available | 78       | 1%     | 9      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/buzz-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.09K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.09K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.14K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.14K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
