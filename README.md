@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BUZZ one-word domains still available to buy.
 
-This dataset contains 4,602 .BUZZ one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,601 .BUZZ one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BUZZ one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=description.top) (4,602) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 | aaron.buzz      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.buzz  | premium   | 50       | 1%     | 9      |           |         |         |
 | abaft.buzz      | premium   | 43       | 2%     | 5      |           |         |         |
-| abandoned.buzz  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.buzz  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.buzz    | premium   | 60       | 2%     | 7      |           |         |         |
 | abasic.buzz     | premium   | 54       | 2%     | 6      |           |         |         |
 | abatable.buzz   | premium   | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 | abbatial.buzz   | premium   | 50       | 1%     | 8      |           |         |         |
 | abc.buzz        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.buzz  | premium   | 50       | 1%     | 9      |           |         |         |
-| abdominal.buzz  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.buzz  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.buzz | premium   | 56       | 1%     | 10     |           |         |         |
 | abducens.buzz   | premium   | 54       | 1%     | 8      |           |         |         |
 | abducent.buzz   | premium   | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 | aberdonian.buzz | premium   | 68       | 1%     | 10     |           |         |         |
 | aberrant.buzz   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.buzz    | premium   | 56       | 2%     | 7      |           |         |         |
-| abhorrent.buzz  | premium   | 54       | 1%     | 9      |           |         |         |
+| abhorrent.buzz  | premium   | 54       | 3%     | 9      |           |         |         |
 | abiding.buzz    | premium   | 106      | 5%     | 7      |           |         |         |
 | abient.buzz     | premium   | 54       | 1%     | 6      |           |         |         |
 | ability.buzz    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
