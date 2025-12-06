@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BUZZ one-word domains still available to buy.
 
-This dataset contains 4,602 .BUZZ one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,607 .BUZZ one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BUZZ one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=description.top) (4,602) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/buzz-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.6K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.6K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.61K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.61K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.6K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.buzz        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.buzz      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.buzz        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.buzz      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.buzz  | premium   | 50       | 1%     | 9      |           |         |         |
 | abaft.buzz      | premium   | 43       | 2%     | 5      |           |         |         |
 | abandoned.buzz  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 | abatic.buzz     | premium   | 54       | 2%     | 6      |           |         |         |
 | abaxial.buzz    | premium   | 54       | 2%     | 7      |           |         |         |
 | abbatial.buzz   | premium   | 50       | 1%     | 8      |           |         |         |
-| abc.buzz        | available | 102      | 41%    | 3      |           |         |         |
+| abc.buzz        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.buzz  | premium   | 50       | 1%     | 9      |           |         |         |
 | abdominal.buzz  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.buzz | premium   | 56       | 1%     | 10     |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.BUZZ one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/buzz-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.6K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.6K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.csv"><b>⬇️ CSV (4.61K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/buzz-oneword-domains/blob/main/buzz.json"><b>⬇️ JSON (4.61K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.6K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
