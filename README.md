@@ -1,10 +1,10 @@
-# Available .BUZZ One-Word Domains (9,302)
+# Available .BUZZ One-Word Domains (9,304)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C303%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C302%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C304%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C304%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .buzz one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,303 rows · **Live catalog:** 9,302 domains
+**Public extract:** 9,304 rows · **Live catalog:** 9,304 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/buzz`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BUZZ one-word domain 
 
 ### Files
 
-- `buzz.csv` — public CSV extract (9,303 rows)
-- `buzz.json` — public JSON extract (9,303 rows)
+- `buzz.csv` — public CSV extract (9,304 rows)
+- `buzz.json` — public JSON extract (9,304 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,10 +67,10 @@ print(df.head())
 | adaptive.buzz   | available | $41.98    | —             | 76             | 32     | 8      | namecheap        |
 | context.buzz    | resell    | $578.04   | —             | 76             | 59     | 7      | Dynadot Inc      |
 | gold.buzz       | premium   | $520      | $130          | 72             | 99     | 4      | namecheap        |
-| adept.buzz      | available | $41.98    | —             | 92             | 27     | 5      | namecheap        |
+| curative.buzz   | available | $41.98    | —             | 92             | 27     | 8      | namecheap        |
 | identity.buzz   | resell    | —         | —             | 80             | 65     | 8      | Spaceship, Inc.  |
 | easy.buzz       | premium   | $3,450    | $46.99        | 128            | 68     | 4      | name.com         |
-| curative.buzz   | available | $41.98    | —             | 92             | 27     | 8      | namecheap        |
+| adept.buzz      | available | $41.98    | —             | 92             | 26     | 5      | namecheap        |
 | fashion.buzz    | resell    | —         | —             | 80             | 44     | 7      | Spaceship, Inc.  |
 | line.buzz       | premium   | $260      | $130          | 74             | 65     | 4      | namecheap        |
 | organize.buzz   | available | $41.98    | —             | 82             | 22     | 8      | namecheap        |
@@ -82,7 +82,7 @@ print(df.head())
 | defined.buzz    | available | $41.98    | —             | 68             | 21     | 7      | namecheap        |
 | tap.buzz        | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC |
 | ace.buzz        | premium   | $500      | $125          | 88             | 57     | 3      | name.com         |
-| virtuoso.buzz   | available | $41.98    | —             | 94             | 20     | 8      | namecheap        |
+| crucial.buzz    | available | $41.98    | —             | 80             | 20     | 7      | namecheap        |
 | bird.buzz       | resell    | —         | —             | 72             | 42     | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,303-row public sample | 9,302 live domains                               |
+| 9,304-row public sample | 9,304 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
