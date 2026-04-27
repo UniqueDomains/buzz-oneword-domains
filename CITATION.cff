@@ -4,9 +4,9 @@ title: "Available .BUZZ One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-14"
-date-released: "2026-04-14"
+version: "2026-04-27"
+date-released: "2026-04-27"
 url: "https://unique.domains/domains/tld/buzz"
 repository-code: "https://github.com/UniqueDomains/buzz-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated dataset of available and resale .buzz one-word domains from Unique Domains."
+abstract: "Daily-updated public extract of available and resale .buzz one-word domains from Unique Domains."
