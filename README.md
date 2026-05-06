@@ -1,10 +1,10 @@
-# Available .BUZZ One-Word Domains (12,173)
+# Available .BUZZ One-Word Domains (12,174)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C173%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C174%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .buzz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,173 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,174 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,173 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,174 domains · **Median ask:** $174.46 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/buzz`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,17 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| barup.buzz       | available | $2.49     | —             | 82             | 2      | 6      | name.com         |
+| dogsit.buzz      | available | $2.49     | —             | 96             | 2      | 6      | name.com         |
+| edamame.buzz     | available | $2.19     | $27.99        | 80             | 9      | 7      | namesilo         |
+| gearup.buzz      | available | $2.49     | —             | 80             | 16     | 7      | name.com         |
+| hangon.buzz      | available | $2.49     | —             | 82             | 6      | 7      | name.com         |
+| pierogi.buzz     | available | $2.49     | —             | 82             | 7      | 7      | name.com         |
+| presents.buzz    | available | $2.49     | —             | 80             | 9      | 8      | name.com         |
+| FabFour.buzz     | available | $2.19     | $27.99        | 82             | 3      | 8      | namesilo         |
+| headout.buzz     | available | $2.49     | —             | 82             | 6      | 8      | name.com         |
+| beawake.buzz     | available | $2.49     | —             | 84             | 3      | 8      | name.com         |
+| chaitea.buzz     | available | $2.49     | —             | 86             | 3      | 8      | name.com         |
 | origins.buzz     | available | $2.49     | —             | 46             | 22     | 7      | name.com         |
 | agents.buzz      | resell    | —         | —             | 56             | 50     | 6      | NETIM SAS        |
 | donuts.buzz      | premium   | $2,500    | —             | 54             | 62     | 6      | name.com         |
@@ -73,17 +84,6 @@ print(df.head())
 | stepup.buzz      | available | $2.49     | —             | 78             | 19     | 7      | name.com         |
 | rivals.buzz      | resell    | —         | —             | 48             | 20     | 6      | GoDaddy.com, LLC |
 | skills.buzz      | premium   | $250      | —             | 58             | 47     | 6      | name.com         |
-| mathematics.buzz | available | $2.49     | —             | 68             | 19     | 11     | name.com         |
-| bearings.buzz    | resell    | —         | —             | 50             | 11     | 8      | GoDaddy.com, LLC |
-| not.buzz         | premium   | $500      | —             | 84             | 42     | 3      | name.com         |
-| stronger.buzz    | available | $2.49     | —             | 67             | 19     | 8      | name.com         |
-| justin.buzz      | premium   | $250      | —             | 58             | 38     | 7      | name.com         |
-| outofoffice.buzz | available | $2.49     | —             | 61             | 19     | 13     | name.com         |
-| Cats.buzz        | premium   | $280      | $140          | 59             | 33     | 4      | namecheap        |
-| reallife.buzz    | available | $2.49     | —             | 68             | 17     | 9      | name.com         |
-| spaces.buzz      | premium   | $125      | —             | 54             | 30     | 6      | name.com         |
-| bonvoyage.buzz   | available | $2.49     | —             | 88             | 16     | 10     | name.com         |
-| heroes.buzz      | premium   | $500      | —             | 68             | 29     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,173 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,174 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of .buzz domain names. The set spans short verb phrases, dictionary words, and brandable combinations such as Acup.buzz, GetOn.buzz, DogSit.buzz, Edamame.buzz, and PlayOn.buzz. For founders, the key question is whether the name is memorable, easy to say, and credible enough for the audience despite the non-mainstream extension. For investors, the focus is buy-in discipline, renewal burden, and whether the word itself creates enough demand to support resale. The median ask is 174.46, so the best candidates are usually the ones where the term does most of the work, not the extension.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer clear words that stay strong even with .buzz
+- Check ask price against renewal before committing
+- Favor simple spelling and easy verbal recall
+- Treat niche or awkward phrases as higher-risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
