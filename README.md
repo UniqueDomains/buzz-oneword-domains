@@ -1,10 +1,10 @@
-# Available .BUZZ One-Word Domains (12,184)
+# Available .BUZZ One-Word Domains (12,206)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C184%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C206%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .buzz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,184 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,206 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,184 domains · **Median ask:** $176.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,206 domains · **Median ask:** $248.65 · **High-demand under $2,500:** 19
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/buzz`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/buzz`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BUZZ one-word domain 
 
 ### Files
 
-- `buzz.csv` — public CSV extract (1,000 rows)
-- `buzz.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `buzz.csv`, public CSV extract (1,000 rows)
+- `buzz.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| barup.buzz       | available | $2.49     | —             | 82             | 2      | 6      | name.com         |
-| dogsit.buzz      | available | $2.49     | —             | 96             | 2      | 6      | name.com         |
-| edamame.buzz     | available | $2.19     | $27.99        | 80             | 9      | 7      | namesilo         |
-| gearup.buzz      | available | $2.49     | —             | 80             | 16     | 7      | name.com         |
-| hangon.buzz      | available | $2.49     | —             | 82             | 6      | 7      | name.com         |
-| pierogi.buzz     | available | $2.49     | —             | 82             | 7      | 7      | name.com         |
-| presents.buzz    | available | $2.49     | —             | 80             | 9      | 8      | name.com         |
-| FabFour.buzz     | available | $2.19     | $27.99        | 82             | 3      | 8      | namesilo         |
-| headout.buzz     | available | $2.49     | —             | 82             | 6      | 8      | name.com         |
-| beawake.buzz     | available | $2.49     | —             | 84             | 3      | 8      | name.com         |
-| chaitea.buzz     | available | $2.49     | —             | 86             | 3      | 8      | name.com         |
-| origins.buzz     | available | $2.49     | —             | 46             | 22     | 7      | name.com         |
-| agents.buzz      | resell    | —         | —             | 56             | 50     | 6      | NETIM SAS        |
-| donuts.buzz      | premium   | $2,500    | —             | 54             | 62     | 6      | name.com         |
-| HarryPotter.buzz | available | $41.98    | —             | 72             | 20     | 12     | namecheap        |
-| lets.buzz        | resell    | —         | —             | 77             | 39     | 4      | NameCheap, Inc.  |
-| regions.buzz     | premium   | $125      | —             | 64             | 59     | 7      | name.com         |
-| stepup.buzz      | available | $2.49     | —             | 78             | 19     | 7      | name.com         |
-| rivals.buzz      | resell    | —         | —             | 48             | 20     | 6      | GoDaddy.com, LLC |
-| skills.buzz      | premium   | $250      | —             | 58             | 47     | 6      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| lag.buzz          | available | $2.49     | —             | medium         | low    | 3      | name.com         |
+| vegan.buzz        | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| ago.buzz          | premium   | $125      | $62.50        | medium         | low    | 3      | name.com         |
+| DJIA.buzz         | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
+| friendly.buzz     | resell    | —         | —             | high           | low    | 8      | NameSilo, LLC    |
+| aim.buzz          | premium   | $242      | $116          | high           | low    | 3      | namesilo         |
+| kept.buzz         | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
+| intelligence.buzz | resell    | —         | —             | high           | low    | 12     | Dynadot Inc      |
+| Ava.buzz          | premium   | $116      | $53.92        | high           | medium | 3      | namesilo         |
+| lxxi.buzz         | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
+| bag.buzz          | premium   | $750      | —             | high           | low    | 3      | name.com         |
+| xxxv.buzz         | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
+| bob.buzz          | premium   | $242      | $116          | high           | medium | 3      | namesilo         |
+| aleut.buzz        | available | $1.98     | $41.98        | low            | low    | 5      | namecheap        |
+| bud.buzz          | premium   | $242      | $116          | high           | low    | 3      | namesilo         |
+| apish.buzz        | available | $1.98     | $41.98        | low            | low    | 5      | namecheap        |
+| but.buzz          | premium   | $116      | $53.92        | high           | low    | 3      | namesilo         |
+| asked.buzz        | available | $2.19     | $27.99        | high           | low    | 5      | namesilo         |
+| bye.buzz          | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| aural.buzz        | available | $2.19     | $27.99        | medium         | low    | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,184 live domains                        |
+| 1,000-row public sample | 12,206 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 19 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of .buzz domain names. The set spans short verb phrases, dictionary words, and brandable combinations such as Acup.buzz, GetOn.buzz, DogSit.buzz, Edamame.buzz, and PlayOn.buzz. For founders, the key question is whether the name is memorable, easy to say, and credible enough for the audience despite the non-mainstream extension. For investors, the focus is buy-in discipline, renewal burden, and whether the word itself creates enough demand to support resale. The median ask is 174.46, so the best candidates are usually the ones where the term does most of the work, not the extension.
+This list groups one-word .buzz domain names by price, status, and demand. The majority sit under $500, giving founders low-cost options to own a name outright, while a smaller premium tier carries higher asks tied to stronger demand scores. Investors scanning this set will find most names in the low-demand, low-price quadrant, with a handful of higher-demand names priced under $2,500 worth closer review.
 
-- Prefer clear words that stay strong even with .buzz
-- Check ask price against renewal before committing
-- Favor simple spelling and easy verbal recall
-- Treat niche or awkward phrases as higher-risk
+- 8,480 available, 3,659 premium, 67 resell status
+- Median ask $248.65 across 12,206 one-word names
+- 10,008 names priced under $500
+- Only 27 names sit in the top 15% demand tier
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
