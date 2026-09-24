@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .buzz one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,102 domains · **Median ask:** $87.57 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/buzz`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| lag.buzz          | available | $2.49     | —             | medium         | low    | 3      | name.com         |
-| vegan.buzz        | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| ago.buzz          | premium   | $116      | $53.92        | low            | low    | 3      | namesilo         |
-| arid.buzz         | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
-| friendly.buzz     | resell    | —         | —             | medium         | low    | 8      | NameSilo, LLC    |
-| aim.buzz          | premium   | $242      | $116          | high           | low    | 3      | namesilo         |
-| djia.buzz         | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
-| intelligence.buzz | resell    | —         | —             | high           | low    | 12     | Dynadot Inc      |
-| aug.buzz          | premium   | $500      | $125          | low            | low    | 3      | name.com         |
-| kept.buzz         | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
-| ava.buzz          | premium   | $116      | $53.92        | high           | medium | 3      | namesilo         |
-| lxxi.buzz         | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
-| azo.buzz          | premium   | $116      | $53.92        | low            | low    | 3      | namesilo         |
-| otic.buzz         | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
-| bag.buzz          | premium   | $768      | $242          | medium         | low    | 3      | namesilo         |
-| xxxv.buzz         | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
-| bob.buzz          | premium   | $242      | $116          | medium         | low    | 3      | namesilo         |
-| aleut.buzz        | available | $1.98     | $41.98        | low            | low    | 5      | namecheap        |
-| bud.buzz          | premium   | $242      | $116          | high           | low    | 3      | namesilo         |
-| apish.buzz        | available | $1.98     | $41.98        | low            | low    | 5      | namecheap        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| christmas.buzz | premium   | $500      | —             | high           | low    | 9      | name.com         |
+| lag.buzz       | available | $2.49     | —             | medium         | low    | 3      | name.com         |
+| vegan.buzz     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| ago.buzz       | premium   | $116      | $53.92        | low            | low    | 3      | namesilo         |
+| arid.buzz      | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
+| friendly.buzz  | resell    | —         | —             | medium         | low    | 8      | NameSilo, LLC    |
+| aim.buzz       | premium   | $242      | $116          | high           | low    | 3      | namesilo         |
+| djia.buzz      | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
+| aug.buzz       | premium   | $500      | $125          | low            | low    | 3      | name.com         |
+| kept.buzz      | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
+| ava.buzz       | premium   | $116      | $53.92        | high           | medium | 3      | namesilo         |
+| lxxi.buzz      | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
+| azo.buzz       | premium   | $116      | $53.92        | low            | low    | 3      | namesilo         |
+| otic.buzz      | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
+| bag.buzz       | premium   | $768      | $242          | medium         | low    | 3      | namesilo         |
+| xxxv.buzz      | available | $1.98     | $41.98        | low            | low    | 4      | namecheap        |
+| bob.buzz       | premium   | $242      | $116          | medium         | low    | 3      | namesilo         |
+| aleut.buzz     | available | $1.98     | $41.98        | low            | low    | 5      | namecheap        |
+| bud.buzz       | premium   | $242      | $116          | high           | low    | 3      | namesilo         |
+| apish.buzz     | available | $1.98     | $41.98        | low            | low    | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
