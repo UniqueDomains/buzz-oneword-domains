@@ -1,10 +1,10 @@
-# Available .BUZZ One-Word Domains (25,458)
+# Available .BUZZ One-Word Domains (27,438)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C458%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C438%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .buzz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,458 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,438 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,458 domains · **Median ask:** $111.51 · **High-demand under $2,500:** 43
+**Public extract:** 1,000 rows · **Live catalog:** 27,438 domains · **Median ask:** $90.97 · **High-demand under $2,500:** 51
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/buzz`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | adps.buzz       | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
 | choc.buzz       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| ali.buzz        | premium   | $512      | $116          | high           | high   | 3      | namesilo         |
+| aac.buzz        | premium   | $116      | $53.92        | high           | low    | 3      | namesilo         |
 | afrl.buzz       | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
 | reactor.buzz    | resell    | —         | —             | high           | low    | 7      | —                |
-| are.buzz        | premium   | $207.20   | $103.70       | high           | low    | 3      | spaceship        |
+| ali.buzz        | premium   | $512      | $116          | high           | high   | 3      | namesilo         |
 | agal.buzz       | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
 | shaving.buzz    | resell    | —         | —             | medium         | low    | 7      | —                |
-| atm.buzz        | premium   | $512      | $116          | high           | low    | 3      | namesilo         |
+| are.buzz        | premium   | $207.20   | $103.70       | high           | low    | 3      | spaceship        |
 | alep.buzz       | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
 | topnotch.buzz   | resell    | —         | —             | high           | low    | 8      | Dynadot Inc      |
-| aus.buzz        | premium   | $110      | $55           | high           | low    | 3      | dynadot          |
+| atm.buzz        | premium   | $512      | $116          | high           | low    | 3      | namesilo         |
 | anoa.buzz       | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
 | bioscience.buzz | resell    | —         | —             | high           | low    | 10     | GoDaddy.com, LLC |
-| bot.buzz        | premium   | $1,107    | $242          | high           | medium | 3      | namesilo         |
+| aus.buzz        | premium   | $110      | $55           | high           | low    | 3      | dynadot          |
 | apar.buzz       | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
-| bow.buzz        | premium   | $116      | $53.92        | high           | low    | 3      | namesilo         |
+| bot.buzz        | premium   | $1,107    | $242          | high           | medium | 3      | namesilo         |
 | barm.buzz       | available | $2.19     | $27.99        | medium         | low    | 4      | namesilo         |
-| dud.buzz        | premium   | $125      | $62.50        | high           | low    | 3      | name.com         |
+| cma.buzz        | premium   | $116      | $53.92        | high           | medium | 3      | namesilo         |
 | ecru.buzz       | available | $1.98     | $41.98        | medium         | low    | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,458 live domains                        |
+| 1,000-row public sample | 27,438 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 43 high-demand names under $2,500          |
+| Basic exported fields   | 51 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BUZZ One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
